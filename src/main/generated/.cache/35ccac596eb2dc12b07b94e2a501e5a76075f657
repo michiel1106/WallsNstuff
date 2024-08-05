@@ -1,0 +1,8 @@
+// 1.20.1	2024-08-03T16:09:29.1423126	Wallsnstuff/Tags for minecraft:block
+996a3080d575214ac2636d152a518baee11e5a04 data\minecraft\tags\blocks\needs_stone_tool.json
+82339626dbdda0eb68bfe7fc5e3234e6c05971e6 data\minecraft\tags\blocks\mineable\axe.json
+2bf3756c851d741ba48b9aea716c8d03db4abbfe data\minecraft\tags\blocks\fences.json
+442b0b5b805d0cc68e06cd11d40cf171ae4bee9c data\minecraft\tags\blocks\mineable\pickaxe.json
+8dc16bd1cdbca4cb57286d380ce7eb71500bb71c data\minecraft\tags\blocks\walls.json
+b2cda72c8351c58a96fe1ec5d8ecbdf582c6601b data\minecraft\tags\blocks\mineable\shovel.json
+40d5e95dfef5d25bd2cd325f9e3f2922244244d7 data\minecraft\tags\blocks\fence_gates.json

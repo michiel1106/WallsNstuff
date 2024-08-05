@@ -1,0 +1,17 @@
+{
+  "block.wallsnstuff.cobblestone_wall": "Cobblestone Wall",
+  "block.wallsnstuff.cobblestone_fence": "Cobblestone Fence",
+  "block.wallsnstuff.cobblestone_fence_gate": "Cobblestone Gate",
+  "block.wallsnstuff.dirt_fence_gate": "Dirt Fence Gate",
+  "block.wallsnstuff.dirt_fence": "Dirt Fence",
+  "block.wallsnstuff.dirt_wall": "Dirt Wall",
+  "block.wallsnstuff.ice_wall": "Ice Wall",
+  "block.wallsnstuff.ice_fence": "Ice Fence",
+  "block.wallsnstuff.ice_fence_gate": "Ice Fence Gate",
+  "block.wallsnstuff.oak_log_fence_gate": "Oak Log Fence Gate",
+  "block.wallsnstuff.oak_log_fence": "Oak Log Fence",
+  "block.wallsnstuff.oak_log_wall": "Oak Log Wall",
+
+
+  "itemgroup.walls": "Walls N' Stuff"
+}

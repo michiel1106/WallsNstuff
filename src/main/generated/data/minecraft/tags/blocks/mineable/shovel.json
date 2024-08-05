@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "wallsnstuff:dirt_wall",
+    "wallsnstuff:dirt_fence",
+    "wallsnstuff:dirt_fence_gate"
+  ]
+}
